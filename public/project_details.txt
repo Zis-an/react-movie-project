@@ -1,0 +1,11 @@
+Technologies
+
+1. React
+2. Appwrite
+3. Tailwind CSS
+
+Features
+
+1. Single Page Application (SPA)
+2. Search Feature
+3. Netflix's Top Trending List (Based on Actual user searches)
