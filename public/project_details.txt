@@ -1,7 +1,7 @@
 Technologies
 
 1. React
-2. Appwrite
+2. Appwrite (Performs Backend Functionality)
 3. Tailwind CSS
 
 Features
@@ -9,3 +9,7 @@ Features
 1. Single Page Application (SPA)
 2. Search Feature
 3. Netflix's Top Trending List (Based on Actual user searches)
+4. API Based Fetching
+5. API Based Search
+6. Optiming the Search API
+7. Input Debouncing **** (500 mili-seconds)
